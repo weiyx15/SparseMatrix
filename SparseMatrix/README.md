@@ -1,5 +1,5 @@
 # SparseMatrix <h1>
-# Orthogonal List for Sparse Matrix Representation <h2>
+## Orthogonal List for Sparse Matrix Representation <h2>
 -complex.h				class complex  
 -OrthoList.h			template <class ListValueType> class OrthoList -- Generic Sparse Matrix Representation  
 -ComplexOrthoList.h		class ComplexOrthoList : public OrthoList<Complex>  
